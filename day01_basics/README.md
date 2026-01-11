@@ -10,7 +10,6 @@ useful in real projects.
 - Python Tutorial for Beginners 1 – Introduction & Setup
 - Python Tutorial for Beginners 2 – Variables & Numbers
 - Python Tutorial for Beginners 3 – Strings  
-(by Corey Schafer on YouTube)
 
 ## What I practiced
 - Variables
